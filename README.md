@@ -24,7 +24,7 @@
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-[linkedin]: linkedin.com/in/maurice-ferguson-797050b7
+[linkedin]: https://www.linkedin.com/in/maurice-ferguson-797050b7/
 
 <!--
 FergusonM28/FergusonM28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
