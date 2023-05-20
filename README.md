@@ -2,6 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 <b><br/><a href="https://github.com/FergusonM28/ActiveDirectoryLab">Active Directory Lab</a>
+<b><br/><a href="https://github.com/FergusonM28/FileIntegrityMonitor">File Integrity Monitor Lab</a>
 
   
 
