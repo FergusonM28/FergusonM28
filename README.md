@@ -2,6 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+<b><br/><a href="https://github.com/FergusonM28/Cybersecurity-Technology-Risk-Renewal-Project"> Cybersecurity Technology Risk Renewal Project
 <b><br/><a href="https://github.com/FergusonM28/PythonPortScanner"> Python Port Scanner
 <b><br/><a href="https://github.com/FergusonM28/SOC-SIEM-Homelab"> SOC SIEM Home Lab
 <b><br/><a href="https://github.com/FergusonM28/ActiveDirectoryLab">Active Directory Lab</a>
