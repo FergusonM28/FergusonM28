@@ -1,10 +1,11 @@
 <h1>Hi, I'm Maurice! 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
-<b><br/><a href="https://github.com/FergusonM28/ActiveDirectoryLab">Active Directory Lab</a>
-<b><br/><a href="https://github.com/FergusonM28/FileIntegrityMonitor">File Integrity Monitor Lab</a>
+<b><br/><a href="https://github.com/FergusonM28/Cybersecurity-Technology-Renewal-Financial-Tracking-Dashboard"> Cybersecurity Technology Renewal Financial Tracking Dashboard
 <b><br/><a href="https://github.com/FergusonM28/PythonPortScanner"> Python Port Scanner
 <b><br/><a href="https://github.com/FergusonM28/SOC-SIEM-Homelab"> SOC SIEM Home Lab
+<b><br/><a href="https://github.com/FergusonM28/ActiveDirectoryLab">Active Directory Lab</a>
+<b><br/><a href="https://github.com/FergusonM28/FileIntegrityMonitor">File Integrity Monitor Lab</a>
 
 <h2> 🤳 Connect with me:</h2>
 
