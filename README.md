@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-<b><br/><a href="https://github.com/FergusonM28/active-threat-intel-lab/tree/main"> Active Threat Intel Lab
+<b><br/><a href="https://github.com/FergusonM28/active-threat-intel-lab/tree/main">Active Threat Intelligence & SOC Detection Lab
 <b><br/><a href="https://github.com/FergusonM28/Flask-Brute-Force-Lab/tree/main"> Brute Force Flask App
 <b><br/><a href="https://github.com/FergusonM28/SOC-SIEM-Homelab"> SOC SIEM Home Lab
 <b><br/><a href="https://github.com/FergusonM28/Phishing-Email-Incident-Response-Playbook"> Phishing Email Incident Response Playbook
